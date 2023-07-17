@@ -1,0 +1,44 @@
+{
+  "id": "4029941",
+  "name": "手语",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5173727",
+      "name": "手套",
+      "font_class": "shoutao",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3382096",
+      "name": "深度学习",
+      "font_class": "shenduxuexi",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "3001052",
+      "name": "传感器",
+      "font_class": "chuanganqi",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "1261088",
+      "name": "android",
+      "font_class": "android",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "1261987",
+      "name": "photo",
+      "font_class": "photo",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    }
+  ]
+}
